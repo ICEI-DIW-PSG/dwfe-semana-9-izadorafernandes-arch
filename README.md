@@ -4,14 +4,17 @@ Nesta atividade, vamos montar um programa para praticar funções em JavaScript 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Izadora Santiago Fernandes
+- Matricula: 917459
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+### Catálogo de produtos
+![Catálogo](./public/prints/PrintCards.png)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+### Detalhes do produto
+![Detalhes](./public/prints/PrintDetalhes.png)
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+### Console do navegador
+![Console](./public/prints/PrintConsole.png)
 
