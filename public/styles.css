@@ -1,0 +1,69 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffeef5;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #d63384;
+}
+
+.controls{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+input,
+select,
+button{
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+button{
+    background-color: hotpink;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+#product-list{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.card{
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px;
+    border: 2px solid #ffc0cb;
+    text-align: center;
+}
+
+.card img{
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.card button{
+    margin: 5px;
+}
+
+.highlight{
+    border: 3px solid deeppink;
+    box-shadow: 0px 0px 15px deeppink;
+}
+
+#product-details{
+    margin-top: 30px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 12px;
+    border: 2px solid pink;
+}
